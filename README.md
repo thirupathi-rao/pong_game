@@ -14,7 +14,7 @@ This version is object-oriented and features:
 
 ## Screenshots
 
-*(Add screenshots here if you want, e.g., `screenshots/game.png`)*
+Screenshot 2025-09-20 224632.png
 
 ---
 
