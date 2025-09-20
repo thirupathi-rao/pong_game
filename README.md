@@ -14,8 +14,7 @@ This version is object-oriented and features:
 
 ## Screenshots
 
-![Pong Gameplay](Screenshot 2025-09-20 224632.png)
-
+![Pong Gameplay](Screenshot%202025-09-20%20224632.png)
 
 ---
 
