@@ -77,14 +77,5 @@ Feel free to fork the repo, improve the game, and submit a pull request.
 
 ## Author
 
-* Your Name
 * GitHub: [DTR]((https://github.com/thirupathi-rao))
 
-```
-
----
-
-I can also **enhance it with a GIF of gameplay, badges, and instructions for deploying on GitHub Pages/Streamlit** if you want it to look more interactive for your repo.  
-
-Do you want me to do that?
-```
